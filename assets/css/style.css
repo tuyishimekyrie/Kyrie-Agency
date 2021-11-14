@@ -334,7 +334,15 @@ header
   font-size: 14px;
   transition: all .3s;
 }
-
+@media only screen and (max-width: 480px) {
+  .pre-header ul.info li a i  {
+    display: none;
+  }
+  .pre-header ul.info li a {
+    font-size: .7rem;
+    text-align: center;
+  }
+}
 .pre-header ul.social-media li a:hover {
   background-color: #1b93e9;
 }
@@ -354,8 +362,10 @@ header
   color: #fff;
 }
 .container .logo img {
-  width: 180px;
+  width: 170px;
   height: 150px;
+  margin-left: -2rem;
+  margin-bottom: 20rem;
 }
 
 .background-header .main-nav .nav li:hover a {
