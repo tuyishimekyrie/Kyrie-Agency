@@ -29,8 +29,9 @@ Kyrie Agency is a Software as a Service (SaaS) platform designed to help busines
 
 ### Prerequisites
 
-- Node.js (version 14.x or later)
-- npm (version 6.x or later)
+- Html
+- css
+- Bootstrap
 
 ### Steps
 
@@ -42,18 +43,11 @@ Kyrie Agency is a Software as a Service (SaaS) platform designed to help busines
    ```sh
    cd kyrie-agency
    ```
-3. Install the dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
+3. Go live
 
 ## Usage
 
-Once the development server is running, you can access the application in your browser at `http://localhost:3000`.
+Once the development server is running, you can access the application in your browser at `http://localhost:5500`.
 
 ### Key Functionalities
 
@@ -84,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For more information or support, please contact us at:
 
 - **Email**: support@kyrieagency.com
-- **Website**: [www.kyrieagency.com](http://www.kyrieagency.com)
+- **Website**: [https://tuyishimekyrie.github.io/kyrie-Agency/](https://tuyishimekyrie.github.io/kyrie-Agency/)
 
 ---
 
